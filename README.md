@@ -1,1 +1,2 @@
-# NguyenQuocKhang-1418_S2b1
+# NguyenQuocKhang
+MSSV 2280601418
